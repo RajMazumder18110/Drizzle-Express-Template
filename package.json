@@ -1,7 +1,7 @@
 {
   "name": "drizzle-express-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "A boilerplate for building RESTful APIs using Express, Drizzle, and TypeScript. It provides a structured and scalable foundation to kickstart your backend projects with best practices and a solid architecture.",
   "main": "dist/main.js",
   "scripts": {
     "dev": "nodemon",
